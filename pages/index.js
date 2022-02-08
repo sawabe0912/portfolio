@@ -45,7 +45,7 @@ export default class About extends Component {
 				</div>
 				<h3>Technical Experience🧑🏼‍💻 </h3>
 				<p>I study Computer Studies at Langara College💻</p>
-				<p>I pursue frontend web developement🦾</p>
+				<p>I pursue frontend web development🦾</p>
 				<h3>Volunteer Activity🫂 </h3>
 				<p>Teaching Japanese at University of Hawaii Manoa🇯🇵🤙</p>
 			</Layout>
