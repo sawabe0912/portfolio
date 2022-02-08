@@ -24,7 +24,7 @@ export default class About extends Component {
 		}
 
 		return (
-			<Layout title="Introduction">
+			<Layout title="">
 				<p>{user.name}</p>
 				<img src={user.avatar_url} alt="Reed" height="200px" />
 				<div className="buttons">
@@ -45,7 +45,7 @@ export default class About extends Component {
 				</div>
 				<h3>Technical Experience🧑🏼‍💻 </h3>
 				<p>I study Computer Studies at Langara College💻</p>
-				<p>I pursue frontend web developemnt🦾</p>
+				<p>I pursue frontend web developement🦾</p>
 				<h3>Volunteer Activity🫂 </h3>
 				<p>Teaching Japanese at University of Hawaii Manoa🇯🇵🤙</p>
 			</Layout>
