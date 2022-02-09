@@ -17,7 +17,7 @@ Router.onRouteChangeError = () => NProgress.done();
 export default ({ children, title }) => (
 	<div className="root">
 		<Head>
-			<link rel="shortcut icon" type="image/png" href="/static/rion.png" />
+			<link rel="shortcut icon" type="image/png" href="/static/rions.png" />
 			<title>Rion Sawabe</title>
 		</Head>
 		<header>
