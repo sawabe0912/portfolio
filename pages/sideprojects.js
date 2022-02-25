@@ -28,6 +28,23 @@ export default () => (
 			</li>
 
 			<li>
+				<h4>Hiking SNS</h4>
+
+				<p>✅Developed frontend using ReactJS</p>
+				<p>✅Used REST API using Express.js, Node.js, Mongoose, and MongoDB</p>
+				<p>✅Deployed this app using Heroku</p>
+
+				<button>
+					<FontAwesomeIcon icon={faCat}></FontAwesomeIcon>
+					<a href="https://github.com/sawabe0912/YelpCamp-project">Github</a>
+				</button>
+				<button>
+					<FontAwesomeIcon icon={faLaptop}></FontAwesomeIcon>
+					<a href="https://sleepy-island-93887.herokuapp.com/">Demo</a>
+				</button>
+			</li>
+
+			<li>
 				<h4>T-shirt Shop</h4>
 
 				<p>✅Developed using React</p>
