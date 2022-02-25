@@ -36,7 +36,7 @@ export default () => (
 
 				<button>
 					<FontAwesomeIcon icon={faLaptop}></FontAwesomeIcon>
-					<a href="https://hidden-escarpment-94560.herokuapp.com/">Demo</a>
+					<a href="https://iin4y.csb.app/">Demo</a>
 				</button>
 			</li>
 
