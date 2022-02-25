@@ -10,31 +10,6 @@ export default () => (
 
 		<ul>
 			<li>
-				<h4>T-shirt review site</h4>
-
-				<p>
-					✅Designed, developed and deployed a review website using the MERN
-					stack
-				</p>
-				<p> ✅Added animation using Framer motion</p>
-				<p>✅Used REST API using Express.js, Node.js, Mongoose, and MongoDB</p>
-				<p>✅Maneged application state using ContextAPI</p>
-				<p>
-					✅Deployed Frontend to Netlify, and deployed Backend to heroku.
-					Finally, Combined them
-				</p>
-
-				<button>
-					<FontAwesomeIcon icon={faCat}></FontAwesomeIcon>
-					<a href="https://github.com/sawabe0912/MERN-CPSC2600Final">Github</a>
-				</button>
-				<button>
-					<FontAwesomeIcon icon={faLaptop}></FontAwesomeIcon>
-					<a href="https://goofy-tesla-b83d43.netlify.app/"> Demo</a>
-				</button>
-			</li>
-
-			<li>
 				<h4>YelpCamp</h4>
 
 				<p>✅Developed frontend using EJS and bootstrap</p>
@@ -45,6 +20,10 @@ export default () => (
 				<button>
 					<FontAwesomeIcon icon={faCat}></FontAwesomeIcon>
 					<a href="https://github.com/sawabe0912/YelpCamp-project">Github</a>
+				</button>
+				<button>
+					<FontAwesomeIcon icon={faLaptop}></FontAwesomeIcon>
+					<a href="https://iin4y.csb.app/">Demo</a>
 				</button>
 			</li>
 
@@ -57,7 +36,7 @@ export default () => (
 
 				<button>
 					<FontAwesomeIcon icon={faLaptop}></FontAwesomeIcon>
-					<a href="https://iin4y.csb.app/">Demo</a>
+					<a href="https://hidden-escarpment-94560.herokuapp.com/">Demo</a>
 				</button>
 			</li>
 
