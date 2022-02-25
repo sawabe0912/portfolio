@@ -36,7 +36,7 @@ export default () => (
 
 				<button>
 					<FontAwesomeIcon icon={faCat}></FontAwesomeIcon>
-					<a href="https://github.com/sawabe0912/YelpCamp-project">Github</a>
+					<a href="https://github.com/sawabe0912/HikingSNS">Github</a>
 				</button>
 				<button>
 					<FontAwesomeIcon icon={faLaptop}></FontAwesomeIcon>
