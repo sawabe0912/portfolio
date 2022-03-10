@@ -56,19 +56,6 @@ export default () => (
 					<a href="https://iin4y.csb.app/">Demo</a>
 				</button>
 			</li>
-
-			<li>
-				<h4>Find Friends from Github</h4>
-
-				<p>✅Developed UI using Tailwind</p>
-				<p>✅Used fetch to retrieve data from Github</p>
-				<p>✅Showed the friend's information as one card</p>
-
-				<button>
-					<FontAwesomeIcon icon={faLaptop}></FontAwesomeIcon>
-					<a href="https://codepen.io/Rion01/live/GRWyBjr">Demo</a>
-				</button>
-			</li>
 		</ul>
 	</Layout>
 );
