@@ -23,7 +23,7 @@ export default () => (
 				</button>
 				<button>
 					<FontAwesomeIcon icon={faLaptop}></FontAwesomeIcon>
-					<a href="https://hidden-escarpment-94560.herokuapp.com/">Demo</a>
+					<a href="https://damp-refuge-35102.herokuapp.com/">Demo</a>
 				</button>
 			</li>
 
