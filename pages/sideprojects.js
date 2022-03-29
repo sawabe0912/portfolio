@@ -40,7 +40,7 @@ export default () => (
 				</button>
 				<button>
 					<FontAwesomeIcon icon={faLaptop}></FontAwesomeIcon>
-					<a href="https://sleepy-island-93887.herokuapp.com/">Demo</a>
+					<a href=" https://lit-lowlands-14884.herokuapp.com/">Demo</a>
 				</button>
 			</li>
 
