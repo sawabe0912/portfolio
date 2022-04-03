@@ -33,7 +33,7 @@ export default class About extends Component {
 					</button>
 					<button>
 						<FontAwesomeIcon icon={faMobile}></FontAwesomeIcon>
-						<a href="https://www.linkedin.com/in/rion-sawabe-23704a20a/">
+						<a href="https://www.linkedin.com/in/rionsawabe/">
 							Linkedin
 						</a>
 					</button>
